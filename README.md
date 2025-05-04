@@ -15,6 +15,12 @@ The 5 most popular images are attached:
 
 ![Fig2](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_2.png)
 
+![Fig3](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_3.png)
+
+![Fig4](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_4.png)
+
+![Fig5](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_5.png)
+
 When using white in patches, images with a white background exhibit distortions.
 
 The model used: Cont10YoloCNN_epoch420250501.pth
