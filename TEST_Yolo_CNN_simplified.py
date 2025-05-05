@@ -287,6 +287,7 @@ def loadimages(dirname):
                 
                  
                  image = cv2.imread(filepath)
+                 image = cv2.resize(image, (640,640), interpolation = cv2.INTER_AREA) # adapting any size image
                  #print(filepath)
                  #print(image.shape)                           
                  images.append(image)
@@ -313,8 +314,6 @@ TabImages, TabfileName = loadimages(dirnameImages)
 import numpy as np
 
 weight_path = "Cont10YoloCNN_epoch420250501.pth"
-#weight_path = "Cont10YoloCNN_epoch2.pth"
-
 
 model = YOLO(grid_size=7, num_classes=1, num_anchors=1)
 model = load_pretrained_weights(model, weight_path)
