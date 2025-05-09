@@ -32,6 +32,8 @@ Python TRAIN_Yolo_CNN_simplified.py
 
 running on the valid folder of the Roboflow drone archive (300 images), characterized by its speed and low resource consumption on a laptop without a GPU.
 
+This test has the flaw of not detecting false negatives, which would be solved with a previous classification model.
+
 References and acknowledgments:
 
 https://medium.com/@whyamit404/how-to-implement-a-yolo-object-detector-from-scratch-in-pytorch-e310829d92e6, from which the Yolo model was obtained from Scratch, to which some modifications have been added.
