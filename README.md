@@ -20,6 +20,8 @@ The 5 most popular images are attached:
 
 ![Fig5](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_5.png)
 
+When using white in patches, images with a white background exhibit distortions.
+
 15/05/2025
 
 By improving the program, boxes  pit predictions and their scores can be got:
@@ -38,7 +40,7 @@ python TEST_Yolo_CNN_simplified_WithAnchorAndBoxes.py
 
 The number of drones detected appears on the console.
 
-When using white in patches, images with a white background exhibit distortions.
+
 
 The model used: Cont10YoloCNN_epoch420250501.pth
 
