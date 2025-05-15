@@ -61,4 +61,6 @@ From where the IOUloss function was copied
 
 https://sites.google.com/educarex.es/python/librer%C3%ADas/opencv/contornos-de-objetos is very helpful in implementing OpenCV detection functions
 
+https://github.com/viplix3/YOLO/blob/master/k-means.py  ( anchors got adapting  programs of this project)
+
 https://avaz-asgarov.medium.com/masking-objects-by-color-contour-in-opencv-a-step-by-step-guide-d3220ead03f8
