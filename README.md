@@ -1,7 +1,7 @@
 # Drone_Detection_YoloFromScratch
 Test using a simplified Yolo model from Scratch, training the Roboflow file https://universe.roboflow.com/drone-detection-pexej/drone-detection-data-set-yolov7/dataset/1 and using OpenCV functions for drone detection.
 
-All packages used in the development, if missing, can be installed with a simple pip command.
+All packages used in the development, if missing, can be installed with a simple pip command. Attached requirements.txt file that can be run, in a specific environment so as not to interfere with versions installed in other environments, using Pip Install Requirements.txt
 
 Once the project is downloaded to its folder, download the file https://universe.roboflow.com/drone-detection-pexej/drone-detection-data-set-yolov7/dataset/1, although only the valid and test folders will be used.
 
