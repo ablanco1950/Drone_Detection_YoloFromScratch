@@ -10,7 +10,8 @@ Verification: run the python program TEST_Yolo_CNN_simplified.py in the project 
 This program obtains the test images from the test folder of the Roboflow file.
 
 The 5 most popular images are attached:
-![Fig1](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_1.png)
+https://github.com/ablanco1950/wristFracture_-fasterrcnn_resnet50_fpn_v2/blob/main/LT_wrist_jumbo_jpeg_jpg.jpg
+![Fig1](https://github.com/ablanco1950//wristFracture_-fasterrcnn_resnet50_fpn_v2/blob/main/LT_wrist_jumbo_jpeg_jpg.jpg)
 
 ![Fig2](https://github.com/ablanco1950/Drone_Detection_YoloFromScratch/blob/main/Figure_2.png)
 
